@@ -1,2 +1,2 @@
 # Digital-security-locker
-The web app for the college to store the e-documents of the students.
+The web application to stores the e-documents of students for Training and placement department of college.
